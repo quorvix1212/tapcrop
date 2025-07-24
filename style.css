@@ -14,10 +14,10 @@ body {
 .tile {
   width: 100px;
   height: 100px;
-  background-image: url('assets/soil.png');
+  background-image: url('Assets/soil.png');
   background-size: cover;
   cursor: pointer;
 }
 .tile.grown {
-  background-image: url('assets/crop.png');
+  background-image: url('Assets/crop.png');
 }
